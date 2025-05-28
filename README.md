@@ -1,4 +1,11 @@
 # KikiDeliveryService
+The Cat Sanctuary 
+Credits:
+Mustafa Alazzawi
+Yamen Alamer
+Adilya Makaeva
+
+
 Project for Basic Programming 2
 # 📦 Kiki’s Delivery Service – A Python Simulation Game
 
@@ -58,8 +65,3 @@ pip install rich
 Run the game:
 python main.py
 
-
-Credits:
-Mustafa Alazzawi
-Yamen Alamer
-Adilya Makaeva
